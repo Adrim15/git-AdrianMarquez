@@ -37,5 +37,5 @@ git merge --no-ff title
 git checkout 
 
 13. ¿Qué comando o comandos usaste en el punto 33?
-git checkout 
-![image](https://github.com/user-attachments/assets/70114af3-0dd7-451e-a034-ad06f12dcf6e)
+git checkout
+
